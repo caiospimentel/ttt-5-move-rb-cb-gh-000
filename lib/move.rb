@@ -8,7 +8,7 @@ end
 
 def input_to_index(input)
   puts(" iiiipunt #{input}")
-  index = ('input'.to_i) - 1
+  index = 6 - 1
   return index
 end
 
