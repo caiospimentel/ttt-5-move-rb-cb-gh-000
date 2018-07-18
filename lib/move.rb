@@ -8,7 +8,7 @@ end
 
 def input_to_index(input)
   puts(" iiiipunt #{input}")
-  input_int = 'input'.to_i
+  input_int = input.to_i
   puts ("inutintahsjdajs#{input_int}")
   index = input_int - 1
   return index
